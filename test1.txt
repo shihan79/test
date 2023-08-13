@@ -1,3 +1,4 @@
 this is test1
 test1 2nd line
 test1 3rd line
+logo is centred
